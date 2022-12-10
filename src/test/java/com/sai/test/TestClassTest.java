@@ -9,6 +9,7 @@ class TestClassTest {
 	@Test
 	void testAdd() {
 		fail("Not yet implemented");
+		fail("Not yet implementation");
 	}
 
 }
